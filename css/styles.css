@@ -2,3 +2,8 @@ body {
     margin-bottom: 80px;
     margin-top: 80px;
 }
+.btn-xl {
+    padding: 18px 28px;
+    font-size: 22px;
+    border-radius: 8px;
+}
